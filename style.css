@@ -73,3 +73,7 @@ h1 {
     border-image: linear-gradient(rgb(47, 194, 54), rgb(167, 40, 114));
     border-image-slice: 1;
 }
+
+footer p {
+    text-align: center;
+}
