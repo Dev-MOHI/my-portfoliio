@@ -60,6 +60,16 @@ h1 {
     background-image: url(/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
 
+#full-stack {
+    border-bottom: 7px solid;
+    border-image: linear-gradient(yellow, tomato);
+    border-image-slice: 1;
+}
 
+#baby {
+    border-bottom: 7px solid;
+    border-image: linear-gradient(rgb(47, 194, 54), rgb(167, 40, 114));
+    border-image-slice: 1;
 }
